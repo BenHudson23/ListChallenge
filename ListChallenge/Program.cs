@@ -10,6 +10,7 @@ namespace ListChallenge
     {
         static void Main(string[] args)
         {
+            // add al names
             List<string> names = new List<string> { "Will R", "Will D", "Ethan", "Tom", "Henry", "Adam", "Ben", "Mr Dring", "Cormac", "Ashton"};
             
 
